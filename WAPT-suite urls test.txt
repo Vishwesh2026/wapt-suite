@@ -1,0 +1,17 @@
+WAPT-suite 
+
+SQL
+https://www.apachefriends.org/
+https://owasp.org/www-project-webgoat/
+http://www.itsecgames.com/
+https://www.apachefriends.org/
+
+XSS
+
+
+
+CSRF
+https://www.apachefriends.org/
+http://testphp.vulnweb.com
+https://sourceforge.net/projects/bwapp/
+https://www.apachefriends.org/
