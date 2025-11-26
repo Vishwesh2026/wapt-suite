@@ -55,21 +55,6 @@ git clone https://github.com/Vishwesh2026/wapt-suite.git
 
 ---
 
-## Directory Structure
-
-wapt-suite/
-├── sql-injection/
-├── xss-testing/
-├── csrf-testing/
-├── api-testing/
-├── reports/
-├── docs/
-├── README.md
-
-
-*Modify this section to reflect changes in the repo.*
-
----
 
 ## Usage
 
